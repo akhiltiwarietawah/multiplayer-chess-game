@@ -77,7 +77,7 @@ This is a real-time chess game implemented using React for the frontend and WebS
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more information.
 
 ## Acknowledgments
 
